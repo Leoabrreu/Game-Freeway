@@ -1,19 +1,19 @@
 <h1>Game Freeway</h1>
 
->Status do projeto: Concluído.
+>Project status: Finished.
 
-<h2><em>Como Inicializar o jogo:</em></h2>
+<h2><em>How to start the game:</em></h2>
 
-Para rodar esse jogo utilize o site:
+To run this game please enter the website
 
 <a href="https://editor.p5js.org/leoabreu/sketches/TQsBLIRA-">Freeway Game</a>
 
-<p>E aperte o botão &#9654; </p>
+<p>And press the button &#9654; </p>
 
-<h3><em>Como jogar:</em></h3>
+<h3><em>How to play:</em></h3>
 
-Para controlar o personagem utilize os botões &#8593; e &#8595; do seu teclado.
+To control the character use the following buttons &#8593; and &#8595; from your keyboard.
 
-<h4><em>Objetivos do jogo:</em></h4>
+<h4><em>Goals:</em></h4>
 
-Chegar com o personagem do outro lado da rua sem colidir com os carros.
+Cross the street and score.
